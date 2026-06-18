@@ -1,12 +1,12 @@
 # da05-Team
-PROJECT DETAILS 
-Project Name
-StreamFlix Subscription Transition Project
+**PROJECT DETAILS**
 
-Project Description
-The project aims to support StreamFlix's transition from a free ad-supported streaming platform to a subscription-based service. The objective is to analyze user behavior, audience preferences, genre popularity, and content performance to provide data-driven recommendations that increase subscriber acquisition, retention, and revenue.
+**Project Name**: StreamFlix Subscription Transition Project
 
-Project Objectives
+**Project Description**: The project aims to support StreamFlix's transition from a free ad-supported streaming platform to a subscription-based service. The objective is to analyze user behavior, audience preferences, genre popularity, and content performance to provide data-driven recommendations that increase subscriber acquisition, retention, and revenue.
+
+**Project Objectives**: 
+
 Identify audience preferences by age, location, and subscription type.
 
 Determine the most successful genres and movies.
@@ -21,7 +21,8 @@ Attract new subscribers and retain existing users.
 
 Support global business growth through data-driven insights.
 
-Expected Deliverables
+**Expected Deliverables:** 
+
 Power BI Dashboard
 
 Data Analysis Findings
@@ -32,39 +33,28 @@ Business Recommendations Report
 
 Final Presentation
 
-Team Roles and Responsibilities
-Role
+**Team Roles and Responsibilities
+Role**:
 
-Responsibility
+**Scrum Master** - SEKAI -- Sprint planning, JIRA management, team coordination
 
-Scrum Master - SEKAI
+**Data Analyst** - ALL MEMBERS -- Data cleaning, validation, analysis
 
-Sprint planning, JIRA management, team coordination
+**BI Developer** - ALL MEMBERS -- Dashboard development in Power BI
 
-Data Analyst - ALL MEMBERS
+**Documentation Lead** - SEKAI / HYSON / PRANITA / SAJIDA -- Meeting notes, reports, client communications
 
-Data cleaning, validation, analysis
+**QA Reviewer** - ALL MEMBERS -- Data validation and quality assurance
 
-BI Developer - ALL MEMBERS
+**Resources**:
 
-Dashboard development in Power BI
+Client meeting notes and requirements document -- TIFC - DA-SAC1 - Note-taking Template.docx 
 
-Documentation Lead - SEKAI / HYSON / PRANITA / SAJIDA
-
-Meeting notes, reports, client communications
-
-QA Reviewer - ALL MEMBERS
-
-Data validation and quality assurance
-
-Resources
-Client meeting notes and requirements documentTIFC - DA-SAC1 - Note-taking Template.docx 
-
-Initial client clarification email Initial Client Clarification Email and Notes Analysis.pdf 
+Initial client clarification email -- Initial Client Clarification Email and Notes Analysis.pdf 
 
 Project backlog and sprint requirements
 
-Dataset Movies.csv 
+Dataset --  Movies.csv 
 
 Power BI dashboard files (to be added later)
 
